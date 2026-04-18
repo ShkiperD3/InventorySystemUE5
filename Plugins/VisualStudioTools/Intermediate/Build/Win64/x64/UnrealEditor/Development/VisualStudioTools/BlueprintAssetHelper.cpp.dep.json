@@ -1,0 +1,37 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\plugins\\visualstudiotools\\source\\visualstudiotools\\private\\blueprintassethelper.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\intermediate\\build\\win64\\x64\\inventorysystemeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\plugins\\visualstudiotools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\visualstudiotools\\definitions.visualstudiotools.h",
+            "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\plugins\\visualstudiotools\\source\\visualstudiotools\\private\\blueprintassethelpers.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreuobject\\uht\\propertyaccessutil.generated.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "d:\\games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreuobject\\uht\\testundeclaredscriptstructobjectreferences.generated.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\assetregistrymodule.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\iassetregistry.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\misc\\assetregistryinterface.h",
+            "d:\\games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assetregistry\\uht\\iassetregistry.generated.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\engine\\streamablemanager.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\experimental\\iostore\\ondemandcore\\public\\io\\iostoreondemand.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\experimental\\iostore\\ondemandcore\\public\\io\\ondemanderror.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\core\\public\\experimental\\unifiederror\\coreerrortypes.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\experimental\\iostore\\ondemandcore\\public\\io\\ondemandhostgroup.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\experimental\\iostore\\ondemandcore\\public\\io\\ondemandtoc.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\core\\public\\io\\iocontainerid.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\misc\\packageaccesstracking.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\core\\public\\misc\\sourcelocationutils.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\engine\\experimental\\streamablemanagererror.h",
+            "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\plugins\\visualstudiotools\\source\\visualstudiotools\\public\\visualstudiotools.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

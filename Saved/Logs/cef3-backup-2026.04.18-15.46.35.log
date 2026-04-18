@@ -1,0 +1,6 @@
+[18204:19448:0418/174626.220:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18204:19448:0418/174626.283:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10936:14052:0418/174635.065:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-04544C02543D589F52667137C14ED770 will be ignored
+[7320:11152:0418/174635.071:ERROR:backend_impl.cc(989)] Critical error found -8
+[7320:11152:0418/174635.071:ERROR:entry_impl.cc(1029)] No file for c1030000
+[7320:11152:0418/174635.072:WARNING:storage_block-inl.h(138)] Failed data load.
