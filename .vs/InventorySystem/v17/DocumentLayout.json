@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DC3A4E-DFF0-3145-BBA0-0EDAB4B4594D}|Intermediate\\ProjectFiles\\InventorySystem.vcxproj|C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Source\\InventorySystem\\Variant_Shooter\\ShooterCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2DC3A4E-DFF0-3145-BBA0-0EDAB4B4594D}|Intermediate\\ProjectFiles\\InventorySystem.vcxproj|solutionrelative:Source\\InventorySystem\\Variant_Shooter\\ShooterCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DC3A4E-DFF0-3145-BBA0-0EDAB4B4594D}|Intermediate\\ProjectFiles\\InventorySystem.vcxproj|C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Source\\InventorySystem\\Variant_Shooter\\Weapons\\ShooterWeapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2DC3A4E-DFF0-3145-BBA0-0EDAB4B4594D}|Intermediate\\ProjectFiles\\InventorySystem.vcxproj|solutionrelative:Source\\InventorySystem\\Variant_Shooter\\Weapons\\ShooterWeapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DC3A4E-DFF0-3145-BBA0-0EDAB4B4594D}|Intermediate\\ProjectFiles\\InventorySystem.vcxproj|C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Source\\InventorySystem\\Public\\InventoryComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2DC3A4E-DFF0-3145-BBA0-0EDAB4B4594D}|Intermediate\\ProjectFiles\\InventorySystem.vcxproj|solutionrelative:Source\\InventorySystem\\Public\\InventoryComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DC3A4E-DFF0-3145-BBA0-0EDAB4B4594D}|Intermediate\\ProjectFiles\\InventorySystem.vcxproj|C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Source\\InventorySystem\\Public\\ItemData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2DC3A4E-DFF0-3145-BBA0-0EDAB4B4594D}|Intermediate\\ProjectFiles\\InventorySystem.vcxproj|solutionrelative:Source\\InventorySystem\\Public\\ItemData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DC3A4E-DFF0-3145-BBA0-0EDAB4B4594D}|Intermediate\\ProjectFiles\\InventorySystem.vcxproj|C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Source\\InventorySystem\\Public\\Variant_Shooter\\ItemObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2DC3A4E-DFF0-3145-BBA0-0EDAB4B4594D}|Intermediate\\ProjectFiles\\InventorySystem.vcxproj|solutionrelative:Source\\InventorySystem\\Public\\Variant_Shooter\\ItemObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DC3A4E-DFF0-3145-BBA0-0EDAB4B4594D}|Intermediate\\ProjectFiles\\InventorySystem.vcxproj|C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Source\\InventorySystem\\Variant_Shooter\\Weapons\\ShooterWeapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2DC3A4E-DFF0-3145-BBA0-0EDAB4B4594D}|Intermediate\\ProjectFiles\\InventorySystem.vcxproj|solutionrelative:Source\\InventorySystem\\Variant_Shooter\\Weapons\\ShooterWeapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 321,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryComponent.h",
+              "DocumentMoniker": "C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Source\\InventorySystem\\Public\\InventoryComponent.h",
+              "RelativeDocumentMoniker": "Source\\InventorySystem\\Public\\InventoryComponent.h",
+              "ToolTip": "C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Source\\InventorySystem\\Public\\InventoryComponent.h",
+              "RelativeToolTip": "Source\\InventorySystem\\Public\\InventoryComponent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-18T15:12:35.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShooterWeapon.cpp",
+              "DocumentMoniker": "C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Source\\InventorySystem\\Variant_Shooter\\Weapons\\ShooterWeapon.cpp",
+              "RelativeDocumentMoniker": "Source\\InventorySystem\\Variant_Shooter\\Weapons\\ShooterWeapon.cpp",
+              "ToolTip": "C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Source\\InventorySystem\\Variant_Shooter\\Weapons\\ShooterWeapon.cpp",
+              "RelativeToolTip": "Source\\InventorySystem\\Variant_Shooter\\Weapons\\ShooterWeapon.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-18T15:11:46.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemObject.h",
+              "DocumentMoniker": "C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Source\\InventorySystem\\Public\\Variant_Shooter\\ItemObject.h",
+              "RelativeDocumentMoniker": "Source\\InventorySystem\\Public\\Variant_Shooter\\ItemObject.h",
+              "ToolTip": "C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Source\\InventorySystem\\Public\\Variant_Shooter\\ItemObject.h",
+              "RelativeToolTip": "Source\\InventorySystem\\Public\\Variant_Shooter\\ItemObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-18T15:10:12.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemData.h",
+              "DocumentMoniker": "C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Source\\InventorySystem\\Public\\ItemData.h",
+              "RelativeDocumentMoniker": "Source\\InventorySystem\\Public\\ItemData.h",
+              "ToolTip": "C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Source\\InventorySystem\\Public\\ItemData.h",
+              "RelativeToolTip": "Source\\InventorySystem\\Public\\ItemData.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-18T15:10:08.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShooterWeapon.h",
+              "DocumentMoniker": "C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Source\\InventorySystem\\Variant_Shooter\\Weapons\\ShooterWeapon.h",
+              "RelativeDocumentMoniker": "Source\\InventorySystem\\Variant_Shooter\\Weapons\\ShooterWeapon.h",
+              "ToolTip": "C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Source\\InventorySystem\\Variant_Shooter\\Weapons\\ShooterWeapon.h",
+              "RelativeToolTip": "Source\\InventorySystem\\Variant_Shooter\\Weapons\\ShooterWeapon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-18T13:42:15.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShooterCharacter.cpp",
+              "DocumentMoniker": "C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Source\\InventorySystem\\Variant_Shooter\\ShooterCharacter.cpp",
+              "RelativeDocumentMoniker": "Source\\InventorySystem\\Variant_Shooter\\ShooterCharacter.cpp",
+              "ToolTip": "C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Source\\InventorySystem\\Variant_Shooter\\ShooterCharacter.cpp",
+              "RelativeToolTip": "Source\\InventorySystem\\Variant_Shooter\\ShooterCharacter.cpp",
+              "ViewState": "AgIAANoAAAAAAAAAAAAAwPEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-18T01:21:51.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 79,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
