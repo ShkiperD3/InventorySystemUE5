@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Source\\InventorySystem\\InventorySystem.Build.cs",
+		"C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Source\\InventorySystem.Target.cs",
+		"C:\\Users\\Shkiper\\Documents\\Unreal Projects\\InventorySystem\\Source\\InventorySystemEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}
