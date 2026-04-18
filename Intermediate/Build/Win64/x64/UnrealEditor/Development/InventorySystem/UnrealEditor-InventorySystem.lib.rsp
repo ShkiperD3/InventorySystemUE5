@@ -1,0 +1,38 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-InventorySystem.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/InventorySystemEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/Module.InventorySystem.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/InventorySystem.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/InventorySystemCameraManager.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/InventorySystemCharacter.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/InventorySystemGameMode.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/InventorySystemPlayerController.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/InventoryComponent.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/ItemData.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/ItemObject.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/HorrorCharacter.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/HorrorGameMode.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/HorrorPlayerController.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/HorrorUI.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/ShooterCharacter.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/ShooterGameMode.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/ShooterPlayerController.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/EnvQueryContext_Target.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/ShooterAIController.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/ShooterNPC.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/ShooterNPCSpawner.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/ShooterStateTreeUtility.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/ShooterBulletCounterUI.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/ShooterUI.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/ShooterPickup.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/ShooterProjectile.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/ShooterWeapon.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/ShooterWeaponHolder.cpp.obj"
+"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/Default.rc2.res"
+/OUT:"C:/Users/Shkiper/Documents/Unreal Projects/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/UnrealEditor-InventorySystem.lib"

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\source\\inventorysystem\\variant_shooter\\weapons\\shooterweaponholder.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\intermediate\\build\\win64\\x64\\inventorysystemeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inventorysystem\\definitions.inventorysystem.h",
+            "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\source\\inventorysystem\\variant_shooter\\weapons\\shooterweaponholder.h",
+            "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\inventorysystem\\uht\\shooterweaponholder.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

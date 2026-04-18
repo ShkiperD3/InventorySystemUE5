@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\source\\inventorysystem\\private\\inventorycomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\intermediate\\build\\win64\\x64\\inventorysystemeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inventorysystem\\definitions.inventorysystem.h",
+            "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\source\\inventorysystem\\public\\inventorycomponent.h",
+            "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\source\\inventorysystem\\public\\itemdata.h",
+            "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\inventorysystem\\uht\\itemdata.generated.h",
+            "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\inventorysystem\\uht\\inventorycomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\source\\inventorysystem\\private\\variant_shooter\\itemobject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\intermediate\\build\\win64\\x64\\inventorysystemeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inventorysystem\\definitions.inventorysystem.h",
+            "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\source\\inventorysystem\\public\\variant_shooter\\itemobject.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreuobject\\uht\\propertyaccessutil.generated.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "d:\\games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreuobject\\uht\\testundeclaredscriptstructobjectreferences.generated.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\source\\inventorysystem\\public\\itemdata.h",
+            "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\inventorysystem\\uht\\itemdata.generated.h",
+            "c:\\users\\shkiper\\documents\\unreal projects\\inventorysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\inventorysystem\\uht\\itemobject.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

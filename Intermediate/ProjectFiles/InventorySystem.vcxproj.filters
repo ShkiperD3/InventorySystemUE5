@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\InventorySystem.uproject" />
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\VisualStudioTools">
+      <UniqueIdentifier>{41769F9C-1A97-316F-BB54-C3A5E5B67BD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\VisualStudioTools\Source">
+      <UniqueIdentifier>{1D6F83A9-DB28-3ED2-9726-5CBD49662E2A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\VisualStudioTools\Source\VisualStudioBlueprintDebuggerHelper">
+      <UniqueIdentifier>{DA293EF3-DE5E-3E0C-8AB9-5D9B37A141A4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\VisualStudioTools\Source\VisualStudioBlueprintDebuggerHelper\Private">
+      <UniqueIdentifier>{D4B7A11D-48EF-383A-B625-62F4B65D3FD8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioBlueprintDebuggerHelper\Private\VisualStudioBlueprintDebuggerHelperModule.cpp">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioBlueprintDebuggerHelper\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioBlueprintDebuggerHelper\Private\VisualStudioBlueprintDebuggerHelperModule.h">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioBlueprintDebuggerHelper\Private</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioBlueprintDebuggerHelper\VisualStudioBlueprintDebuggerHelper.Build.cs">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioBlueprintDebuggerHelper</Filter>
+    </None>
+    <Filter Include="Plugins\VisualStudioTools\Source\VisualStudioTools">
+      <UniqueIdentifier>{E48AC123-3582-39B0-901B-970708A27A9A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\VisualStudioTools\Source\VisualStudioTools\Private">
+      <UniqueIdentifier>{75F6F5BA-F8E5-3E94-8434-FA6DC9ABBA70}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\BlueprintAssetHelper.cpp">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\BlueprintAssetHelpers.h">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\BlueprintReferencesCommandlet.cpp">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\BlueprintReferencesCommandlet.h">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\FSmartBSTR.h">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\VisualStudioTools.cpp">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\VisualStudioToolsBlueprintBreakpointExtension.cpp">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\VisualStudioToolsBlueprintBreakpointExtension.h">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\VisualStudioToolsCommandlet.cpp">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\VisualStudioToolsCommandlet.h">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\VisualStudioToolsCommandletBase.cpp">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\VisualStudioToolsCommandletBase.h">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\VSServerCommandlet.cpp">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\VSServerCommandlet.h">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\VSTestAdapterCommandlet.cpp">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\VSTestAdapterCommandlet.h">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VisualStudioTools\Source\VisualStudioTools\Public">
+      <UniqueIdentifier>{333EB5AC-492F-3ED7-9C7F-15701C1818EC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Public\VisualStudioTools.h">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\VisualStudioTools.Build.cs">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools</Filter>
+    </None>
+    <None Include="..\..\Plugins\VisualStudioTools\VisualStudioTools.uplugin">
+      <Filter>Plugins\VisualStudioTools</Filter>
+    </None>
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\InventorySystem.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\InventorySystemEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\InventorySystem">
+      <UniqueIdentifier>{8A63E611-04BD-34EA-B912-50C0C7590CC3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\InventorySystem\InventorySystem.Build.cs">
+      <Filter>Source\InventorySystem</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\InventorySystem\InventorySystem.cpp">
+      <Filter>Source\InventorySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\InventorySystem.h">
+      <Filter>Source\InventorySystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InventorySystem\InventorySystemCameraManager.cpp">
+      <Filter>Source\InventorySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\InventorySystemCameraManager.h">
+      <Filter>Source\InventorySystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InventorySystem\InventorySystemCharacter.cpp">
+      <Filter>Source\InventorySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\InventorySystemCharacter.h">
+      <Filter>Source\InventorySystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InventorySystem\InventorySystemGameMode.cpp">
+      <Filter>Source\InventorySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\InventorySystemGameMode.h">
+      <Filter>Source\InventorySystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InventorySystem\InventorySystemPlayerController.cpp">
+      <Filter>Source\InventorySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\InventorySystemPlayerController.h">
+      <Filter>Source\InventorySystem</Filter>
+    </ClInclude>
+    <Filter Include="Source\InventorySystem\Private">
+      <UniqueIdentifier>{D0F11923-D985-3BDB-A7D8-82564DFD78FD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\InventorySystem\Private\InventoryComponent.cpp">
+      <Filter>Source\InventorySystem\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\InventorySystem\Private\ItemData.cpp">
+      <Filter>Source\InventorySystem\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\InventorySystem\Private\Variant_Shooter">
+      <UniqueIdentifier>{2E3DF393-037E-333B-9D63-DE1694034E38}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\InventorySystem\Private\Variant_Shooter\ItemObject.cpp">
+      <Filter>Source\InventorySystem\Private\Variant_Shooter</Filter>
+    </ClCompile>
+    <Filter Include="Source\InventorySystem\Public">
+      <UniqueIdentifier>{FF67C690-2458-3765-AA4A-3A08658F56B1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\InventorySystem\Public\InventoryComponent.h">
+      <Filter>Source\InventorySystem\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\InventorySystem\Public\ItemData.h">
+      <Filter>Source\InventorySystem\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\InventorySystem\Public\Variant_Shooter">
+      <UniqueIdentifier>{294D70AF-7CFE-3E96-8982-146C3BAD4F8D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\InventorySystem\Public\Variant_Shooter\ItemObject.h">
+      <Filter>Source\InventorySystem\Public\Variant_Shooter</Filter>
+    </ClInclude>
+    <Filter Include="Source\InventorySystem\Variant_Horror">
+      <UniqueIdentifier>{5061D8C7-1D2C-3FBB-A223-E5616C734537}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\InventorySystem\Variant_Horror\HorrorCharacter.cpp">
+      <Filter>Source\InventorySystem\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\Variant_Horror\HorrorCharacter.h">
+      <Filter>Source\InventorySystem\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InventorySystem\Variant_Horror\HorrorGameMode.cpp">
+      <Filter>Source\InventorySystem\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\Variant_Horror\HorrorGameMode.h">
+      <Filter>Source\InventorySystem\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InventorySystem\Variant_Horror\HorrorPlayerController.cpp">
+      <Filter>Source\InventorySystem\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\Variant_Horror\HorrorPlayerController.h">
+      <Filter>Source\InventorySystem\Variant_Horror</Filter>
+    </ClInclude>
+    <Filter Include="Source\InventorySystem\Variant_Horror\UI">
+      <UniqueIdentifier>{AD5757C4-AAAA-3ABB-93E4-A06D9D1EEB40}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\InventorySystem\Variant_Horror\UI\HorrorUI.cpp">
+      <Filter>Source\InventorySystem\Variant_Horror\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\Variant_Horror\UI\HorrorUI.h">
+      <Filter>Source\InventorySystem\Variant_Horror\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\InventorySystem\Variant_Shooter">
+      <UniqueIdentifier>{08AC97BE-C752-340F-A744-FFC451569DDB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\InventorySystem\Variant_Shooter\AI">
+      <UniqueIdentifier>{12E91F49-7B13-3946-BF2A-2006E2F6511F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\InventorySystem\Variant_Shooter\AI\EnvQueryContext_Target.cpp">
+      <Filter>Source\InventorySystem\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\Variant_Shooter\AI\EnvQueryContext_Target.h">
+      <Filter>Source\InventorySystem\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InventorySystem\Variant_Shooter\AI\ShooterAIController.cpp">
+      <Filter>Source\InventorySystem\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\Variant_Shooter\AI\ShooterAIController.h">
+      <Filter>Source\InventorySystem\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InventorySystem\Variant_Shooter\AI\ShooterNPC.cpp">
+      <Filter>Source\InventorySystem\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\Variant_Shooter\AI\ShooterNPC.h">
+      <Filter>Source\InventorySystem\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InventorySystem\Variant_Shooter\AI\ShooterNPCSpawner.cpp">
+      <Filter>Source\InventorySystem\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\Variant_Shooter\AI\ShooterNPCSpawner.h">
+      <Filter>Source\InventorySystem\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InventorySystem\Variant_Shooter\AI\ShooterStateTreeUtility.cpp">
+      <Filter>Source\InventorySystem\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\Variant_Shooter\AI\ShooterStateTreeUtility.h">
+      <Filter>Source\InventorySystem\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InventorySystem\Variant_Shooter\ShooterCharacter.cpp">
+      <Filter>Source\InventorySystem\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\Variant_Shooter\ShooterCharacter.h">
+      <Filter>Source\InventorySystem\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InventorySystem\Variant_Shooter\ShooterGameMode.cpp">
+      <Filter>Source\InventorySystem\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\Variant_Shooter\ShooterGameMode.h">
+      <Filter>Source\InventorySystem\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InventorySystem\Variant_Shooter\ShooterPlayerController.cpp">
+      <Filter>Source\InventorySystem\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\Variant_Shooter\ShooterPlayerController.h">
+      <Filter>Source\InventorySystem\Variant_Shooter</Filter>
+    </ClInclude>
+    <Filter Include="Source\InventorySystem\Variant_Shooter\UI">
+      <UniqueIdentifier>{C96199D2-0721-313D-A90C-1A5FBB11E3F2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\InventorySystem\Variant_Shooter\UI\ShooterBulletCounterUI.cpp">
+      <Filter>Source\InventorySystem\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\Variant_Shooter\UI\ShooterBulletCounterUI.h">
+      <Filter>Source\InventorySystem\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InventorySystem\Variant_Shooter\UI\ShooterUI.cpp">
+      <Filter>Source\InventorySystem\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\Variant_Shooter\UI\ShooterUI.h">
+      <Filter>Source\InventorySystem\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\InventorySystem\Variant_Shooter\Weapons">
+      <UniqueIdentifier>{49114DC4-89F2-3940-92A3-8EF14E138D5A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\InventorySystem\Variant_Shooter\Weapons\ShooterPickup.cpp">
+      <Filter>Source\InventorySystem\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\Variant_Shooter\Weapons\ShooterPickup.h">
+      <Filter>Source\InventorySystem\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InventorySystem\Variant_Shooter\Weapons\ShooterProjectile.cpp">
+      <Filter>Source\InventorySystem\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\Variant_Shooter\Weapons\ShooterProjectile.h">
+      <Filter>Source\InventorySystem\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InventorySystem\Variant_Shooter\Weapons\ShooterWeapon.cpp">
+      <Filter>Source\InventorySystem\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\Variant_Shooter\Weapons\ShooterWeapon.h">
+      <Filter>Source\InventorySystem\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InventorySystem\Variant_Shooter\Weapons\ShooterWeaponHolder.cpp">
+      <Filter>Source\InventorySystem\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\Variant_Shooter\Weapons\ShooterWeaponHolder.h">
+      <Filter>Source\InventorySystem\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
